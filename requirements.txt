@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+google-generativeai
+beautifulsoup4
+selenium
